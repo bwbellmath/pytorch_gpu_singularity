@@ -26,5 +26,11 @@ conda install -c anaconda scikit-learn
 conda install -c simpleitk simpleitk
 
 #pillow
-#conda install -c anaconda pillow 
+conda install -c anaconda pillow 
+
+#tabulate
+conda install -c anaconda tabulate
+
+
+
 
